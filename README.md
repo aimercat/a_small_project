@@ -1,3 +1,4 @@
 # a_small_project
-I want to  complete a  simple system to manage CD/VHD
-My source code is here.
+I want to implement a system for managing audio and video products
+
+My source code is as follows
